@@ -47,6 +47,7 @@ An interactive Python program that acts as a virtual assistant for device operat
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
-Feel free to further customize the README.md file by adding more emojis, symbols, or any other formatting elements as desired.
+
+## Feel free to further customize the README.md file by adding more emojis, symbols, or any other formatting elements as desired.
 
 
