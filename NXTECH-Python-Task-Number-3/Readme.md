@@ -21,6 +21,9 @@ An interactive Python program that acts as a face attendance system using the we
 - Python 3.x
 - Required libraries: `cv2`, `os`, `pickle`, `numpy`, `face_recognition`, `cvzone`, `datetime`, `firebase_admin`, `storage`
 - For face_recognition , two libraries must be installed : `opencv-python` , `dlib`
+- For `dlib` , install from `dlib package install` repo by
+  ```shell
+  pip3 install {copy path of dlib package file from dlib package install repo}
 
 ## How to Run ▶️
 
