@@ -12,7 +12,9 @@ An interactive Python program that acts as a face attendance system using the we
 - ⚙️ Easy configuration and setup
 
 ## IDE Used ✅
+
 - Pycharm
+
 
 ## Prerequisites ✅
 
