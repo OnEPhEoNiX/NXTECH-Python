@@ -11,10 +11,14 @@ An interactive Python program that acts as a face attendance system using the we
 - 📊 Firebase integration for data storage
 - ⚙️ Easy configuration and setup
 
+## IDE Used ✅
+- Pycharm
+
 ## Prerequisites ✅
 
 - Python 3.x
 - Required libraries: `cv2`, `os`, `pickle`, `numpy`, `face_recognition`, `cvzone`, `datetime`, `firebase_admin`, `storage`
+- For face_recognition , two libraries must be installed : `opencv-python` , `dlib`
 
 ## How to Run ▶️
 
